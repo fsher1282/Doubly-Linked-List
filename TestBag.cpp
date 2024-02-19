@@ -14,14 +14,6 @@
 #include "LinkedNode.hpp"
 using namespace std;
 
-/*
- Dear Dr.Kovach I have tried my absolute best to find this absolutley infuriating bug,
- I have tried for weeks and I have gone to many others for help but to no avail. This is
- just a reminder that you said I could turn it in despite this problem being currently
- unresolved. I have gotten started on the next project and when I get done with it I will
- try and solve this bug
- 
- */
 
 void displayBag (LinkedBag <string> *bagPtr){
     
